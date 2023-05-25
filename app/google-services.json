@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "910095741598",
+    "firebase_url": "https://pinder-2ec2b-default-rtdb.firebaseio.com",
+    "project_id": "pinder-2ec2b",
+    "storage_bucket": "pinder-2ec2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910095741598:android:e90d5b0485cffb4f64018f",
+        "android_client_info": {
+          "package_name": "com.example.pinder99"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910095741598-clhd2915silbao0h8q4n0oq8i1vo9tg2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pinder99",
+            "certificate_hash": "4b73344656f292e3814c76d098587022d69a2143"
+          }
+        },
+        {
+          "client_id": "910095741598-p30ih05bfo5tmvrot8j7o7ltu9ito6n5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4hdtZNcanbB43Q3IJSaCl-D41n7JiPMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910095741598-p30ih05bfo5tmvrot8j7o7ltu9ito6n5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

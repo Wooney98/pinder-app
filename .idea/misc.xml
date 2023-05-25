@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/A/AndroidStudioProjects/2/Pinder99 v2.091 - backbtn/app/src/main/res/layout/activity_information.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/2/Pinder99 v2.091 - backbtn/app/src/main/res/layout/activity_report_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/2/Pinder99 v2.091 - backbtn/app/src/main/res/layout/activity_splash.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/2/Pinder99 v2.091 - backbtn/app/src/main/res/layout/ask_tab.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/2/Pinder99 v2.091 - backbtn/app/src/main/res/layout/fragment_add_picture_bottom_sheet.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/2/Pinder99 v2.091 - backbtn/app/src/main/res/layout/fragment_map.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/2/Pinder99 v2.091 - backbtn/app/src/main/res/layout/fragment_report.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/2/Pinder99 v2.091 - backbtn/app/src/main/res/layout/introduce_tab.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/2/Pinder99 v2.091 - backbtn/app/src/main/res/layout/item_report.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/2/Pinder99 v2.091 - backbtn/app/src/main/res/layout/sidebar.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/2/Pinder99 v2.091 - backbtn/app/src/main/res/layout/spinner_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/Pinder99 v2.09 - backbtn/Pinder99 v2.09 - backbtn/app/src/main/res/layout/activity_information.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/Pinder99 v2.09 - backbtn/Pinder99 v2.09 - backbtn/app/src/main/res/layout/item_report.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v.2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2305" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v.2/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.2305" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v.2/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.2305" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v.2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2305" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v.2/app/src/main/res/layout/activity_login.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v.2/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v.2/app/src/main/res/layout/profile.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v.2/app/src/main/res/layout/sidebar.xml" value="0.33" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v2.05/app/src/main/res/drawable-v24/ic_baseline_mail_24.xml" value="0.219" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v2.05/app/src/main/res/layout/activity_information.xml" value="0.3828125" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v2.05/app/src/main/res/layout/activity_login.xml" value="0.3828125" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v2.05/app/src/main/res/layout/activity_main.xml" value="0.3828125" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v2.05/app/src/main/res/layout/activity_report_item.xml" value="0.3828125" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v2.05/app/src/main/res/layout/activity_splash.xml" value="0.3828125" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v2.05/app/src/main/res/layout/anim_splash.xml" value="0.3078125" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v2.05/app/src/main/res/layout/ask_tab.xml" value="0.3828125" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v2.05/app/src/main/res/layout/fragment_map.xml" value="0.3828125" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v2.05/app/src/main/res/layout/fragment_report.xml" value="0.3828125" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v2.05/app/src/main/res/layout/introduce_tab.xml" value="0.3828125" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v2.05/app/src/main/res/layout/item_report.xml" value="0.3828125" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v2.05/app/src/main/res/layout/sidebar.xml" value="0.3828125" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v2.05/app/src/main/res/layout/spinner_item.xml" value="0.3828125" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v2.06/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2825" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v2.06/app/src/main/res/drawable/shape_alpha.xml" value="0.2825" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v2.06/app/src/main/res/drawable/shape_green_cricle.xml" value="0.2825" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v2.06/app/src/main/res/layout/activity_information.xml" value="0.3828125" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v2.06/app/src/main/res/layout/activity_login.xml" value="0.3828125" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v2.06/app/src/main/res/layout/activity_main.xml" value="0.3828125" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v2.06/app/src/main/res/layout/activity_report_item.xml" value="0.3828125" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v2.06/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v2.06/app/src/main/res/layout/anim_splash.xml" value="0.3828125" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v2.06/app/src/main/res/layout/ask_tab.xml" value="0.3828125" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v2.06/app/src/main/res/layout/fragment_map.xml" value="0.3828125" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v2.06/app/src/main/res/layout/fragment_report.xml" value="0.3828125" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v2.06/app/src/main/res/layout/introduce_tab.xml" value="0.3828125" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v2.06/app/src/main/res/layout/spinner_item.xml" value="0.3828125" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v2.06/app/src/main/res/mipmap-anydpi-v26/appicon.xml" value="0.2825" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v2.06/app/src/main/res/mipmap-anydpi-v26/appicon_round.xml" value="0.2825" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v2.06/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2825" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v2.06/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2825" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99 v2.06/app/src/main/res/mipmap-anydpi-v26/menu.xml" value="0.2825" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2325" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3295" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99/app/src/main/res/layout/activity_main.xml" value="0.371875" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99/app/src/main/res/layout/sidebar.xml" value="0.38645833333333335" />
+        <entry key="..\:/Users/juunn/AndroidStudioProjects/Pinder99/app/src/main/res/xml/network_security_config.xml" value="0.38645833333333335" />
+        <entry key="..\:/Users/sungwoo/Desktop/2/Pinder99 v2.091 - backbtn/app/src/main/res/drawable-v24/bottomsheet_head_line.xml" value="0.181" />
+        <entry key="..\:/Users/sungwoo/Desktop/2/Pinder99 v2.091 - backbtn/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.181" />
+        <entry key="..\:/Users/sungwoo/Desktop/2/Pinder99 v2.091 - backbtn/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/sungwoo/Desktop/2/Pinder99 v2.091 - backbtn/app/src/main/res/layout/activity_report_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/sungwoo/Desktop/2/Pinder99 v2.091 - backbtn/app/src/main/res/layout/ask_tab.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/sungwoo/Desktop/2/Pinder99 v2.091 - backbtn/app/src/main/res/layout/fragment_map.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/sungwoo/Desktop/2/Pinder99 v2.091 - backbtn/app/src/main/res/layout/fragment_report.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/sungwoo/Desktop/2/Pinder99 v2.091 - backbtn/app/src/main/res/layout/introduce_tab.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/sungwoo/Desktop/2/Pinder99 v2.091 - backbtn/app/src/main/res/layout/item_report.xml" value="0.25" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.02/app/src/main/res/drawable-v24/ic_baseline_mail_24.xml" value="0.21" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.02/app/src/main/res/drawable-v24/ic_baseline_people_24.xml" value="0.21" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.02/app/src/main/res/drawable-v24/ic_menu_camera.xml" value="0.197" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.02/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.21" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.02/app/src/main/res/layout/activity_information.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.02/app/src/main/res/layout/activity_login.xml" value="0.35052083333333334" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.02/app/src/main/res/layout/activity_main.xml" value="0.35052083333333334" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.02/app/src/main/res/layout/activity_report_item.xml" value="0.35052083333333334" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.02/app/src/main/res/layout/ask_tab.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.02/app/src/main/res/layout/fragment_map.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.02/app/src/main/res/layout/fragment_report.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.02/app/src/main/res/layout/introduce_tab.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.02/app/src/main/res/layout/item_register.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.02/app/src/main/res/layout/item_report.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.02/app/src/main/res/layout/sidebar.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.02/app/src/main/res/layout/spinner_item.xml" value="0.35052083333333334" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.091 - backbtn/app/src/main/res/drawable-v24/__.xml" value="0.2285" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.091 - backbtn/app/src/main/res/drawable-v24/______.xml" value="0.18" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.091 - backbtn/app/src/main/res/drawable-v24/ic_baseline_mail_24.xml" value="0.367" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.091 - backbtn/app/src/main/res/drawable-v24/ic_baseline_people_24.xml" value="0.367" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.091 - backbtn/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.367" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.091 - backbtn/app/src/main/res/drawable-v24/ic_menu_camera.xml" value="0.367" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.091 - backbtn/app/src/main/res/drawable-v24/sex.xml" value="0.367" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.091 - backbtn/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.367" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.091 - backbtn/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.367" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.091 - backbtn/app/src/main/res/drawable/ic_launcher_background.xml" value="0.367" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.091 - backbtn/app/src/main/res/drawable/ic_num0.xml" value="0.2285" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.091 - backbtn/app/src/main/res/drawable/my_location.xml" value="0.367" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.091 - backbtn/app/src/main/res/drawable/shape_alpha.xml" value="0.367" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.091 - backbtn/app/src/main/res/drawable/shape_green_cricle.xml" value="0.367" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.091 - backbtn/app/src/main/res/layout/activity_information.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.091 - backbtn/app/src/main/res/layout/activity_login.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.091 - backbtn/app/src/main/res/layout/activity_main.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.091 - backbtn/app/src/main/res/layout/activity_report_item.xml" value="0.5" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.091 - backbtn/app/src/main/res/layout/activity_splash.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.091 - backbtn/app/src/main/res/layout/ask_tab.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.091 - backbtn/app/src/main/res/layout/fragment_report.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.091 - backbtn/app/src/main/res/layout/introduce_tab.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.091 - backbtn/app/src/main/res/layout/item_report.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.091 - backbtn/app/src/main/res/layout/sidebar.xml" value="0.1734375" />
+        <entry key="..\:/Users/sungwoo/Desktop/Pinder99 v2.091 - backbtn/app/src/main/res/layout/spinner_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Pinder99-map ok/app/src/main/res/layout/activity_login.xml" value="0.22826086956521738" />
+        <entry key="app/src/main/res/drawable-v24/bottomsheet_head_line.xml" value="0.168" />
+        <entry key="app/src/main/res/drawable-v24/shape_bottom_sheet_15dp.xml" value="0.168" />
+        <entry key="app/src/main/res/drawable-v24/shape_radius13dp_white.xml" value="0.168" />
+        <entry key="app/src/main/res/drawable/shape_alpha.xml" value="0.165" />
+        <entry key="app/src/main/res/drawable/shape_green_cricle.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/activity_information.xml" value="0.18432971014492755" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.17798913043478262" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_report_item.xml" value="0.18432971014492755" />
+        <entry key="app/src/main/res/layout/fragment_add_picture_bottom_sheet.xml" value="0.18432971014492755" />
+        <entry key="app/src/main/res/layout/fragment_first.xml" value="0.17798913043478262" />
+        <entry key="app/src/main/res/layout/fragment_map.xml" value="0.17798913043478262" />
+        <entry key="app/src/main/res/layout/fragment_report.xml" value="0.17798913043478262" />
+        <entry key="app/src/main/res/layout/fragment_select_material_dialog.xml" value="0.18432971014492755" />
+        <entry key="app/src/main/res/layout/item_report.xml" value="0.17798913043478262" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
